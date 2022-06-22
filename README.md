@@ -5,6 +5,7 @@
 - Rust takes care of memory management.  
 - Rust has it's own package manager called ***Cargo***.  
 - Rust is a block scoped language.  
+- Rust is a statically typed language.  
 ___
 Create project folder in explorer and use snake case for the name.  
 Open project folder with Visual Studio Code.  
